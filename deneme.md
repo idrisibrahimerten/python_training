@@ -1,5 +1,5 @@
 <img align="left" width="75" height="75" src="img.png">
-# RDC+ Apple Store Scraper
+# RDC+ Apple Store Scraper <br>
 
 | Attempt | #1  | #2  |
 | :---:   | :-: | :-: |
