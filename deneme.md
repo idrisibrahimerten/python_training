@@ -23,6 +23,20 @@ pip install -r requirements.txt
 * Press the Run button.<br>
 * Operation completed.<br>
 
+## Talents
+
+* With AppStoreScraper, you can easily reach the date of sending a comment.<br>
+* With AppStoreScraper, you can easily find out how many stars the commentator has given the app to which he has commented.<br>
+* Easily edited posted comments with AppStoreScraper? it's not edited? you will see the information.<br>
+* With AppStoreScraper, you can easily find out who sent the comment.<br>
+* With AppStoreScraper, you can easily access the title of the submitted comment.<br>
+* With AppStoreScraper, you can easily access the submitted comment.<br>
+
+## TÜRKÇE
+
+# RDC+ Apple Store Scraper
+<br>
+
 ## Açıklama
 
 * Apple Store Scraper, Apple Store'de bulunan uygulamalardan insanların etkileşimine göre yaptığı yorumları çıkarma aracıdır. <br>
@@ -43,7 +57,7 @@ pip install -r requirements.txt
 * Çalıştır butonuna basınız.<br>
 * İşlem tamamlandı.<br>
 
-### Yetenekleri
+## Yetenekleri
 
 * AppStoreScraper ile kolayca bir yorumun gönderilme tarihine ulaşabilirsiniz.<br>
 * AppStoreScraper ile kolayca yorum yapan kişinin yorum attığı uygulamaya kaç yıldız verdiğine ulaşabilirsiniz.<br>
