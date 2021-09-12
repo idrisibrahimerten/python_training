@@ -32,7 +32,7 @@ pip install -r requirements.txt
 * With AppStoreScraper, you can easily access the title of the submitted comment.<br>
 * With AppStoreScraper, you can easily access the submitted comment.<br>
 
-## TÜRKÇE
+##### TÜRKÇE
 
 # RDC+ Apple Store Scraper
 <br>
